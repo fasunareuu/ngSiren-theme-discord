@@ -126,6 +126,12 @@
 	z-index: 0 !important;
  }
 
+.memberInner__4dac6 .layout_bb8e67 {
+	margin: 20px;
+	border-radius: 20px;
+	background-color: var(--bg-color);
+}
+ 
  .activityPanel_b73e7a {
 	 border-radius: 20px;
 	 background-color: var(--bg-color);
