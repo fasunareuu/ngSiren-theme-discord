@@ -110,6 +110,16 @@
 	 margin: 5px;
  }
  
+ .member_aa4760 .container_a48b21 .clickable__03a29 {
+	background-color: var(--bg-color);
+	border-radius: 20px;
+ }
+
+ .member_aa4760 .container_a48b21 .clickable__03a29:hover {
+	background-color: var(--bg-color);
+	border-radius: 20px;
+ }
+
  .activityPanel_b73e7a {
 	 border-radius: 20px;
 	 background-color: var(--bg-color);
