@@ -104,18 +104,6 @@
 	 backdrop-filter: blur(15px);
  }
  
- .member_aa4760 {
-	 border-radius: 20px;
-	 background-color: var(--bg-color);
-	 margin: 10px;
- }
-
- .member_aa4760:hover {
-	background-color: var(--bg-color);
-	border-radius: 20px;
-	margin: 2px;
- }
- 
  .memberInner__4dac6:hover {
 	 border-radius: 20px;
 	 background-color: var(--bg-color);
