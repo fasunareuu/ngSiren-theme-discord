@@ -116,8 +116,8 @@
  }
 
  .member_aa4760 .container_a48b21 .clickable__03a29:hover {
-	background-color: var(--bg-color);
-	border-radius: 20px;
+	background-color: var(--bg-color) !important;
+	border-radius: 20px !important;
  }
 
  .activityPanel_b73e7a {
