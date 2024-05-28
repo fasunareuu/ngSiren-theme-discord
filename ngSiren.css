@@ -110,14 +110,20 @@
 	 margin: 5px;
  }
  
- .member_aa4760 .container_a48b21 .clickable__03a29 {
+ .member_aa4760,
+ .container_a48b21,
+.clickable__03a29 {
 	background-color: var(--bg-color);
 	border-radius: 20px;
+	z-index: 0 !important;
  }
 
- .member_aa4760 .container_a48b21 .clickable__03a29:hover {
+ .member_aa4760,
+.container_a48b21,
+.clickable__03a29:hover {
 	background-color: var(--bg-color) !important;
 	border-radius: 20px !important;
+	z-index: 0 !important;
  }
 
  .activityPanel_b73e7a {
