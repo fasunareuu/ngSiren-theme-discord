@@ -21,6 +21,7 @@
 	 --dnd-color:#ffffff;
 	 --offline-color: #5c5c5c;
 	 --white-color: #fff;
+	 --icon-url: url('https://i.pinimg.com/564x/ed/07/9d/ed079d36a5e01bd24137104457c627b2.jpg');
  }
  
  .button__581d0 .contents__322f4 {
@@ -283,7 +284,7 @@
  .childWrapper_a6ce15 {
 	 content: '';
 	 display: block;
-	 background-image: url('https://i.pinimg.com/564x/ed/07/9d/ed079d36a5e01bd24137104457c627b2.jpg');
+	 background-image: var(--icon-url);
 	 background-size: contain;
 	 background-repeat: no-repeat;
 	 position: absolute;
