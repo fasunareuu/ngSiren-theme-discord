@@ -378,16 +378,4 @@
  .status__1c26d {
 	 background-color: var(--main-color) !important;
  }
-
- #app-mount {
-	background: var(--ngsiren-bg) !important;
-	background-size: cover !important;
-	background-position: center !important;
-}
-
-.theme-dark {
-	--ngsiren-bg: url(https://i.pinimg.com/564x/c3/31/c6/c331c67f7d95aa1f5d03ed1b0dfb91c1.jpg) !important;
-}
-.theme-light {
-	--ngsiren-bg: url(https://i.pinimg.com/564x/c3/31/c6/c331c67f7d95aa1f5d03ed1b0dfb91c1.jpg) !important;
-}
+ 
