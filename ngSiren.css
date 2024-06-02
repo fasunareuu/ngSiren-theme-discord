@@ -22,6 +22,7 @@
 	 --offline-color: #5c5c5c;
 	 --white-color: #fff;
 	 --icon-url: url('https://i.pinimg.com/564x/ed/07/9d/ed079d36a5e01bd24137104457c627b2.jpg');
+	 --ngsiren-bg: url('https://i.pinimg.com/564x/c3/31/c6/c331c67f7d95aa1f5d03ed1b0dfb91c1.jpg')
  }
  
  .button__581d0 .contents__322f4 {
@@ -377,3 +378,16 @@
  .status__1c26d {
 	 background-color: var(--main-color) !important;
  }
+
+ #app-mount {
+	background: var(--ngsiren-bg) !important;
+	background-size: cover !important;
+	background-position: center !important;
+}
+
+.theme-dark {
+	--ngsiren-bg: url(https://i.pinimg.com/564x/c3/31/c6/c331c67f7d95aa1f5d03ed1b0dfb91c1.jpg);
+}
+.theme-light {
+	--ngsiren-bg: url(https://i.pinimg.com/564x/c3/31/c6/c331c67f7d95aa1f5d03ed1b0dfb91c1.jpg);
+}
