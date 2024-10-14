@@ -342,6 +342,7 @@
  .border_e782de.speaking_b20122,
  .border_d9a17b.speaking_c28527 {
 	 box-shadow: inset 0 0 0 2px var(--main-color), inset 0 0 0 3px var(--bg-color);
+	 animation: rainbow 4s linear infinite;
  }
  
  [data-text-variant='eyebrow'] {
@@ -578,4 +579,15 @@ min-height: 5px;
 .container_adcaac {
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius: 20px;
+}
+
+
+@keyframes rainbow {
+	0% {
+		filter: hue-rotate(0deg);
+	}
+
+	100% {
+		filter: hue-rotate(360deg);
+	}
 }
