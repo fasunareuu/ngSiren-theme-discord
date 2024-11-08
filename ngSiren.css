@@ -21,7 +21,7 @@
  :root {
 	 --bg-color: rgba(26, 26, 26, 0.8);
 	 --main-color: #ffdb93;
-	 --font: 'Montserrat';
+	 --font: 'Horst Blackletter Demo';
 	 --online-color: #00ff73;
 	 --idle-color: #3e62ff;
 	 --dnd-color:#ffffff;
@@ -30,7 +30,7 @@
 	 --icon-url: url('https://i.pinimg.com/564x/ed/07/9d/ed079d36a5e01bd24137104457c627b2.jpg');
 	 --main-color-bg: hsla(240, 100%, 80%, 0.2);
 	 --anim: rainbow 2s linear infinite;
-	 --name-font: 'Horst Blackletter Demo';
+	 /* --name-font: 'Horst Blackletter Demo'; */
  }
  
  .button__581d0 .contents__322f4 {
@@ -42,7 +42,7 @@
  }
  
  body {
-	 font-family: var(--name-font);
+	 font-family: var(--font);
 	 font-weight: 700;
 	 width: 100%;
 	 height: 100%;
